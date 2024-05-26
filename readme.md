@@ -16,6 +16,7 @@
 - Depois abra o terminal e digite git clone https://github.com/maaarcossilva/teste_blogdoagi.git
 
 ### Executando testes
+- Entre na pasta que foi realizado o clone do repositorio (Na Raiz)
 - Para executar a suíte de testes completa digite:
 	- robot -d ./logs tests/search.robot
 - Caso queira executar por tags digite:
